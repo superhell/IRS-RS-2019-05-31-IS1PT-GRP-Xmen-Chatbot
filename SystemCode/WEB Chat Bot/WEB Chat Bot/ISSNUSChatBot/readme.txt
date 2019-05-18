@@ -1,0 +1,1 @@
+﻿ Install-Package Google.Cloud.Dialogflow.V2 -Version 1.0.0-beta01 
