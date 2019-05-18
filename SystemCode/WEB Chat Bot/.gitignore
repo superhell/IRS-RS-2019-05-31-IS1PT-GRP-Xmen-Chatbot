@@ -6,5 +6,6 @@
 /*.dotCover
 /_ReSharper.*
 *.nupkg
-/packages
 /.vs
+/ISSNUSChatBot/bin
+/ISSNUSChatBot/obj
