@@ -1,0 +1,10 @@
+/*.suo
+/*.user
+/*Playground*
+/*.docstates
+/*.shfbproj_*
+/*.dotCover
+/_ReSharper.*
+*.nupkg
+/packages
+/.vs
