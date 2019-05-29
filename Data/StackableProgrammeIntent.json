@@ -1,0 +1,316 @@
+{
+  "id": "a052bbc9-0687-4d68-9324-16a990ee5318",
+  "name": "StackableProgrammeIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7edaf02f-a1fe-4fa4-b2e0-3fee8f372cb5",
+          "required": false,
+          "dataType": "@questionkey",
+          "name": "questionkey",
+          "value": "$questionkey",
+          "isList": false
+        },
+        {
+          "id": "3e53cb21-cf6a-484c-906a-81ecdb4cadc3",
+          "required": false,
+          "dataType": "@action",
+          "name": "action",
+          "value": "$action",
+          "isList": false
+        },
+        {
+          "id": "4d1b5e58-2df3-4c92-bc5e-c8c6d247b038",
+          "required": true,
+          "dataType": "@subject",
+          "name": "subject",
+          "value": "$subject",
+          "prompts": [
+            "Can you tell me the subject you are interested in? And I will be happy to answer you.",
+            "You can ask me something related to stackable certification programmes."
+          ],
+          "isList": false
+        },
+        {
+          "id": "95eee68b-4ec9-4083-aaed-f9bc12ea9575",
+          "required": false,
+          "dataType": "@location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        },
+        {
+          "id": "8ffa44cb-3e83-4801-a11f-46b3f07ec469",
+          "required": false,
+          "dataType": "@inquirytype",
+          "name": "inquirytype",
+          "value": "$inquirytype",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "ab059402-c963-4f9e-858f-e034254ce792",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " are the "
+        },
+        {
+          "text": "benefits",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Stackable Certificate Programmes",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "42fcf3fb-40b2-424f-a71b-ba65a49702c4",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "Certificate Programme in Smart Systems & Platforms",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " programme?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "eb0c1b63-c8d1-484e-befa-7cc4a6a2521e",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "Certificate Programme in Artificial Intelligence|Artificial Intelligence",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " programme?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "37807fbc-08dd-4e72-b273-d4757078d214",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "certificate programme in digital solutions development",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "68cdcd31-5cf7-4990-a8ff-fd116b20fa57",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "certificate programme in data science",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ba6f988e-0616-4b83-885e-67cd927800a8",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Stackable Certificate Programmes",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

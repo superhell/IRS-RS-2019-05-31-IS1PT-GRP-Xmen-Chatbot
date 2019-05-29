@@ -1,0 +1,641 @@
+{
+  "id": "6b73c5a2-44ae-4995-85e5-b987b4c9d8d9",
+  "name": "subject",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "CEO's Honour List",
+      "synonyms": [
+        "CEO's Honour List"
+      ]
+    },
+    {
+      "value": "Data Science",
+      "synonyms": [
+        "Data Science"
+      ]
+    },
+    {
+      "value": "Digital Solutions Development",
+      "synonyms": [
+        "Digital Solutions Development"
+      ]
+    },
+    {
+      "value": "Executive Education",
+      "synonyms": [
+        "Executive Education"
+      ]
+    },
+    {
+      "value": "Financial Assistance",
+      "synonyms": [
+        "Financial Assistance"
+      ]
+    },
+    {
+      "value": "Honour List",
+      "synonyms": [
+        "Honour List"
+      ]
+    },
+    {
+      "value": "ISS",
+      "synonyms": [
+        "ISS"
+      ]
+    },
+    {
+      "value": "Information session",
+      "synonyms": [
+        "Information session"
+      ]
+    },
+    {
+      "value": "Intelligent Systems",
+      "synonyms": [
+        "Intelligent Systems"
+      ]
+    },
+    {
+      "value": "NUS ISS",
+      "synonyms": [
+        "NUS ISS"
+      ]
+    },
+    {
+      "value": "PDU",
+      "synonyms": [
+        "PDU"
+      ]
+    },
+    {
+      "value": "PDUs",
+      "synonyms": [
+        "PDUs"
+      ]
+    },
+    {
+      "value": "Smart health",
+      "synonyms": [
+        "Smart health"
+      ]
+    },
+    {
+      "value": "Software Engineering",
+      "synonyms": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "value": "accomplishments",
+      "synonyms": [
+        "accomplishments"
+      ]
+    },
+    {
+      "value": "achievements",
+      "synonyms": [
+        "achievements"
+      ]
+    },
+    {
+      "value": "activities",
+      "synonyms": [
+        "activities"
+      ]
+    },
+    {
+      "value": "administration staff",
+      "synonyms": [
+        "administration staff"
+      ]
+    },
+    {
+      "value": "administrative staff",
+      "synonyms": [
+        "administrative staff"
+      ]
+    },
+    {
+      "value": "applied research",
+      "synonyms": [
+        "applied research"
+      ]
+    },
+    {
+      "value": "artificial intelligence",
+      "synonyms": [
+        "artificial intelligence"
+      ]
+    },
+    {
+      "value": "benefits",
+      "synonyms": [
+        "benefits"
+      ]
+    },
+    {
+      "value": "campus activities",
+      "synonyms": [
+        "campus activities"
+      ]
+    },
+    {
+      "value": "campus facilities",
+      "synonyms": [
+        "campus facilities"
+      ]
+    },
+    {
+      "value": "career",
+      "synonyms": [
+        "career"
+      ]
+    },
+    {
+      "value": "career advise",
+      "synonyms": [
+        "career advise"
+      ]
+    },
+    {
+      "value": "career services",
+      "synonyms": [
+        "career services"
+      ]
+    },
+    {
+      "value": "career talks",
+      "synonyms": [
+        "career talks"
+      ]
+    },
+    {
+      "value": "certificate programme in artificial intelligence",
+      "synonyms": [
+        "certificate programme in artificial intelligence"
+      ]
+    },
+    {
+      "value": "certificate programme in data science",
+      "synonyms": [
+        "certificate programme in data science"
+      ]
+    },
+    {
+      "value": "certificate programme in digital solutions development",
+      "synonyms": [
+        "certificate programme in digital solutions development"
+      ]
+    },
+    {
+      "value": "certificate programme in smart systems & platforms",
+      "synonyms": [
+        "certificate programme in smart systems & platforms"
+      ]
+    },
+    {
+      "value": "consulting services",
+      "synonyms": [
+        "consulting services"
+      ]
+    },
+    {
+      "value": "conversion",
+      "synonyms": [
+        "conversion"
+      ]
+    },
+    {
+      "value": "conversion programme",
+      "synonyms": [
+        "conversion programme"
+      ]
+    },
+    {
+      "value": "conversion programmes",
+      "synonyms": [
+        "conversion programmes"
+      ]
+    },
+    {
+      "value": "core values",
+      "synonyms": [
+        "core values"
+      ]
+    },
+    {
+      "value": "corporate",
+      "synonyms": [
+        "corporate"
+      ]
+    },
+    {
+      "value": "corporate courses",
+      "synonyms": [
+        "corporate courses"
+      ]
+    },
+    {
+      "value": "cyberSecurity",
+      "synonyms": [
+        "cyberSecurity"
+      ]
+    },
+    {
+      "value": "data science",
+      "synonyms": [
+        "data science"
+      ]
+    },
+    {
+      "value": "digital agility",
+      "synonyms": [
+        "digital agility"
+      ]
+    },
+    {
+      "value": "digital innovation",
+      "synonyms": [
+        "digital innovation"
+      ]
+    },
+    {
+      "value": "digital innovation & design",
+      "synonyms": [
+        "digital innovation & design"
+      ]
+    },
+    {
+      "value": "digital leadership",
+      "synonyms": [
+        "digital leadership"
+      ]
+    },
+    {
+      "value": "digital products",
+      "synonyms": [
+        "digital products"
+      ]
+    },
+    {
+      "value": "digital products & platforms",
+      "synonyms": [
+        "digital products & platforms"
+      ]
+    },
+    {
+      "value": "digital strategy",
+      "synonyms": [
+        "digital strategy"
+      ]
+    },
+    {
+      "value": "digital strategy & leadership",
+      "synonyms": [
+        "digital strategy & leadership"
+      ]
+    },
+    {
+      "value": "digital strategy and leadership",
+      "synonyms": [
+        "digital strategy and leadership"
+      ]
+    },
+    {
+      "value": "diploma",
+      "synonyms": [
+        "diploma"
+      ]
+    },
+    {
+      "value": "diploma course",
+      "synonyms": [
+        "diploma course"
+      ]
+    },
+    {
+      "value": "diploma course",
+      "synonyms": [
+        "diploma course"
+      ]
+    },
+    {
+      "value": "diploma courses",
+      "synonyms": [
+        "diploma courses"
+      ]
+    },
+    {
+      "value": "discipline",
+      "synonyms": [
+        "discipline"
+      ]
+    },
+    {
+      "value": "disciplines",
+      "synonyms": [
+        "disciplines"
+      ]
+    },
+    {
+      "value": "facilities",
+      "synonyms": [
+        "facilities"
+      ]
+    },
+    {
+      "value": "fund",
+      "synonyms": [
+        "fund"
+      ]
+    },
+    {
+      "value": "funding",
+      "synonyms": [
+        "funding"
+      ]
+    },
+    {
+      "value": "graduate Programme",
+      "synonyms": [
+        "graduate Programme"
+      ]
+    },
+    {
+      "value": "graduate Programmes",
+      "synonyms": [
+        "graduate Programmes"
+      ]
+    },
+    {
+      "value": "grant",
+      "synonyms": [
+        "grant"
+      ]
+    },
+    {
+      "value": "honour students",
+      "synonyms": [
+        "honour students"
+      ]
+    },
+    {
+      "value": "information",
+      "synonyms": [
+        "information"
+      ]
+    },
+    {
+      "value": "internship",
+      "synonyms": [
+        "internship"
+      ]
+    },
+    {
+      "value": "introduction",
+      "synonyms": [
+        "introduction"
+      ]
+    },
+    {
+      "value": "leadership",
+      "synonyms": [
+        "leadership"
+      ]
+    },
+    {
+      "value": "location",
+      "synonyms": [
+        "location"
+      ]
+    },
+    {
+      "value": "machine reasoning",
+      "synonyms": [
+        "machine reasoning"
+      ]
+    },
+    {
+      "value": "management board",
+      "synonyms": [
+        "management board"
+      ]
+    },
+    {
+      "value": "management team",
+      "synonyms": [
+        "management team"
+      ]
+    },
+    {
+      "value": "master programme",
+      "synonyms": [
+        "master programme"
+      ]
+    },
+    {
+      "value": "masters programme",
+      "synonyms": [
+        "masters programme"
+      ]
+    },
+    {
+      "value": "masters programmes",
+      "synonyms": [
+        "masters programmes"
+      ]
+    },
+    {
+      "value": "mission",
+      "synonyms": [
+        "mission"
+      ]
+    },
+    {
+      "value": "mission statement",
+      "synonyms": [
+        "mission statement"
+      ]
+    },
+    {
+      "value": "organisations",
+      "synonyms": [
+        "organisations"
+      ]
+    },
+    {
+      "value": "organizations",
+      "synonyms": [
+        "organizations"
+      ]
+    },
+    {
+      "value": "placement opportunities",
+      "synonyms": [
+        "placement opportunities"
+      ]
+    },
+    {
+      "value": "platforms",
+      "synonyms": [
+        "platforms"
+      ]
+    },
+    {
+      "value": "post graduate",
+      "synonyms": [
+        "post graduate"
+      ]
+    },
+    {
+      "value": "professional conversion programmes",
+      "synonyms": [
+        "professional conversion programmes"
+      ]
+    },
+    {
+      "value": "professional development units",
+      "synonyms": [
+        "professional development units"
+      ]
+    },
+    {
+      "value": "programme",
+      "synonyms": [
+        "programme"
+      ]
+    },
+    {
+      "value": "programmes",
+      "synonyms": [
+        "programmes"
+      ]
+    },
+    {
+      "value": "reasoning systems",
+      "synonyms": [
+        "reasoning systems"
+      ]
+    },
+    {
+      "value": "road show",
+      "synonyms": [
+        "road show"
+      ]
+    },
+    {
+      "value": "skillsfuture training",
+      "synonyms": [
+        "skillsfuture training"
+      ]
+    },
+    {
+      "value": "smart systems & platforms",
+      "synonyms": [
+        "smart systems & platforms"
+      ]
+    },
+    {
+      "value": "software systems",
+      "synonyms": [
+        "software systems"
+      ]
+    },
+    {
+      "value": "stackable Certificate programmes",
+      "synonyms": [
+        "stackable Certificate programmes"
+      ]
+    },
+    {
+      "value": "stackable certificate course",
+      "synonyms": [
+        "stackable certificate course"
+      ]
+    },
+    {
+      "value": "stackable progrogrammes",
+      "synonyms": [
+        "stackable progrogrammes"
+      ]
+    },
+    {
+      "value": "stackup",
+      "synonyms": [
+        "stackup"
+      ]
+    },
+    {
+      "value": "stackup startup tech talent development",
+      "synonyms": [
+        "stackup startup tech talent development"
+      ]
+    },
+    {
+      "value": "story",
+      "synonyms": [
+        "story"
+      ]
+    },
+    {
+      "value": "student",
+      "synonyms": [
+        "student"
+      ]
+    },
+    {
+      "value": "student life",
+      "synonyms": [
+        "student life"
+      ]
+    },
+    {
+      "value": "students",
+      "synonyms": [
+        "students"
+      ]
+    },
+    {
+      "value": "subsidies",
+      "synonyms": [
+        "subsidies"
+      ]
+    },
+    {
+      "value": "teaching staff",
+      "synonyms": [
+        "teaching staff"
+      ]
+    },
+    {
+      "value": "vision",
+      "synonyms": [
+        "vision"
+      ]
+    },
+    {
+      "value": "what",
+      "synonyms": [
+        "what"
+      ]
+    },
+    {
+      "value": "when",
+      "synonyms": [
+        "when"
+      ]
+    },
+    {
+      "value": "who",
+      "synonyms": [
+        "who"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false,
+  "isRegexp": false
+}

@@ -1,0 +1,307 @@
+{
+  "id": "bb833c07-2eda-4613-8825-ba269aca66ac",
+  "name": "action",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Tell",
+      "synonyms": [
+        "Tell"
+      ]
+    },
+    {
+      "value": "are",
+      "synonyms": [
+        "are"
+      ]
+    },
+    {
+      "value": "attend",
+      "synonyms": [
+        "attend",
+        "needed"
+      ]
+    },
+    {
+      "value": "available",
+      "synonyms": [
+        "available"
+      ]
+    },
+    {
+      "value": "choose",
+      "synonyms": [
+        "choose"
+      ]
+    },
+    {
+      "value": "comment",
+      "synonyms": [
+        "comment"
+      ]
+    },
+    {
+      "value": "conduct",
+      "synonyms": [
+        "conduct"
+      ]
+    },
+    {
+      "value": "cost",
+      "synonyms": [
+        "cost"
+      ]
+    },
+    {
+      "value": "do",
+      "synonyms": [
+        "do"
+      ]
+    },
+    {
+      "value": "do they have",
+      "synonyms": [
+        "do they have"
+      ]
+    },
+    {
+      "value": "does",
+      "synonyms": [
+        "does"
+      ]
+    },
+    {
+      "value": "elaborate",
+      "synonyms": [
+        "elaborate"
+      ]
+    },
+    {
+      "value": "enrol",
+      "synonyms": [
+        "enrol"
+      ]
+    },
+    {
+      "value": "establish",
+      "synonyms": [
+        "establish"
+      ]
+    },
+    {
+      "value": "existing",
+      "synonyms": [
+        "existing"
+      ]
+    },
+    {
+      "value": "expensive",
+      "synonyms": [
+        "expensive"
+      ]
+    },
+    {
+      "value": "explain",
+      "synonyms": [
+        "explain"
+      ]
+    },
+    {
+      "value": "explain",
+      "synonyms": [
+        "explain"
+      ]
+    },
+    {
+      "value": "feedback",
+      "synonyms": [
+        "feedback"
+      ]
+    },
+    {
+      "value": "find",
+      "synonyms": [
+        "find"
+      ]
+    },
+    {
+      "value": "for",
+      "synonyms": [
+        "for"
+      ]
+    },
+    {
+      "value": "get",
+      "synonyms": [
+        "get"
+      ]
+    },
+    {
+      "value": "go",
+      "synonyms": [
+        "go"
+      ]
+    },
+    {
+      "value": "go",
+      "synonyms": [
+        "go"
+      ]
+    },
+    {
+      "value": "go",
+      "synonyms": [
+        "go"
+      ]
+    },
+    {
+      "value": "graduate",
+      "synonyms": [
+        "graduate"
+      ]
+    },
+    {
+      "value": "handle",
+      "synonyms": [
+        "handle"
+      ]
+    },
+    {
+      "value": "handled",
+      "synonyms": [
+        "handled"
+      ]
+    },
+    {
+      "value": "have",
+      "synonyms": [
+        "have"
+      ]
+    },
+    {
+      "value": "is",
+      "synonyms": [
+        "is"
+      ]
+    },
+    {
+      "value": "know",
+      "synonyms": [
+        "know"
+      ]
+    },
+    {
+      "value": "locate",
+      "synonyms": [
+        "locate"
+      ]
+    },
+    {
+      "value": "located",
+      "synonyms": [
+        "located"
+      ]
+    },
+    {
+      "value": "need",
+      "synonyms": [
+        "need",
+        "needed"
+      ]
+    },
+    {
+      "value": "offer",
+      "synonyms": [
+        "offer"
+      ]
+    },
+    {
+      "value": "on",
+      "synonyms": [
+        "on"
+      ]
+    },
+    {
+      "value": "pick",
+      "synonyms": [
+        "pick"
+      ]
+    },
+    {
+      "value": "prerequisite",
+      "synonyms": [
+        "prerequisite"
+      ]
+    },
+    {
+      "value": "provide",
+      "synonyms": [
+        "provide"
+      ]
+    },
+    {
+      "value": "require",
+      "synonyms": [
+        "require"
+      ]
+    },
+    {
+      "value": "required",
+      "synonyms": [
+        "required"
+      ]
+    },
+    {
+      "value": "requirement",
+      "synonyms": [
+        "requirement"
+      ]
+    },
+    {
+      "value": "say",
+      "synonyms": [
+        "say"
+      ]
+    },
+    {
+      "value": "see",
+      "synonyms": [
+        "see"
+      ]
+    },
+    {
+      "value": "select",
+      "synonyms": [
+        "select"
+      ]
+    },
+    {
+      "value": "setup",
+      "synonyms": [
+        "setup"
+      ]
+    },
+    {
+      "value": "study",
+      "synonyms": [
+        "study"
+      ]
+    },
+    {
+      "value": "tell",
+      "synonyms": [
+        "tell"
+      ]
+    },
+    {
+      "value": "understand",
+      "synonyms": [
+        "understand"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false,
+  "isRegexp": false
+}

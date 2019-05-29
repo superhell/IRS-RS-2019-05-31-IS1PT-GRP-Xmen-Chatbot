@@ -1,0 +1,167 @@
+{
+  "id": "574f9c39-646b-4404-b6b0-865c54ffea1c",
+  "name": "inquirytype",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "CEO",
+      "synonyms": [
+        "CEO"
+      ]
+    },
+    {
+      "value": "Career services",
+      "synonyms": [
+        "Career services"
+      ]
+    },
+    {
+      "value": "Diploma",
+      "synonyms": [
+        "Diploma"
+      ]
+    },
+    {
+      "value": "Executive Education",
+      "synonyms": [
+        "Executive Education"
+      ]
+    },
+    {
+      "value": "Financial Assistance",
+      "synonyms": [
+        "Financial Assistance"
+      ]
+    },
+    {
+      "value": "Honour List",
+      "synonyms": [
+        "Honour List"
+      ]
+    },
+    {
+      "value": "about",
+      "synonyms": [
+        "about"
+      ]
+    },
+    {
+      "value": "career advise",
+      "synonyms": [
+        "career advise"
+      ]
+    },
+    {
+      "value": "course",
+      "synonyms": [
+        "course"
+      ]
+    },
+    {
+      "value": "courses",
+      "synonyms": [
+        "courses"
+      ]
+    },
+    {
+      "value": "discipline",
+      "synonyms": [
+        "discipline"
+      ]
+    },
+    {
+      "value": "disciplines",
+      "synonyms": [
+        "disciplines"
+      ]
+    },
+    {
+      "value": "facilities",
+      "synonyms": [
+        "facilities"
+      ]
+    },
+    {
+      "value": "honour students",
+      "synonyms": [
+        "honour students"
+      ]
+    },
+    {
+      "value": "master programmes",
+      "synonyms": [
+        "master programmes"
+      ]
+    },
+    {
+      "value": "masters programme",
+      "synonyms": [
+        "masters programme"
+      ]
+    },
+    {
+      "value": "masters programme",
+      "synonyms": [
+        "masters programme"
+      ]
+    },
+    {
+      "value": "masters programmes",
+      "synonyms": [
+        "masters programmes"
+      ]
+    },
+    {
+      "value": "placement",
+      "synonyms": [
+        "placement"
+      ]
+    },
+    {
+      "value": "placements",
+      "synonyms": [
+        "placements"
+      ]
+    },
+    {
+      "value": "programme",
+      "synonyms": [
+        "programme"
+      ]
+    },
+    {
+      "value": "programmes",
+      "synonyms": [
+        "programmes"
+      ]
+    },
+    {
+      "value": "services",
+      "synonyms": [
+        "services"
+      ]
+    },
+    {
+      "value": "student life",
+      "synonyms": [
+        "student life"
+      ]
+    },
+    {
+      "value": "training course",
+      "synonyms": [
+        "training course"
+      ]
+    },
+    {
+      "value": "training courses",
+      "synonyms": [
+        "training courses"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false,
+  "isRegexp": false
+}

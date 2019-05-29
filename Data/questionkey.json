@@ -1,0 +1,77 @@
+{
+  "id": "212a08fb-034a-4eb8-9cf1-d0e5575af990",
+  "name": "questionkey",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Can",
+      "synonyms": [
+        "Can"
+      ]
+    },
+    {
+      "value": "are",
+      "synonyms": [
+        "are"
+      ]
+    },
+    {
+      "value": "can",
+      "synonyms": [
+        "can"
+      ]
+    },
+    {
+      "value": "do",
+      "synonyms": [
+        "do"
+      ]
+    },
+    {
+      "value": "does",
+      "synonyms": [
+        "does"
+      ]
+    },
+    {
+      "value": "how",
+      "synonyms": [
+        "how"
+      ]
+    },
+    {
+      "value": "is",
+      "synonyms": [
+        "is"
+      ]
+    },
+    {
+      "value": "what",
+      "synonyms": [
+        "what"
+      ]
+    },
+    {
+      "value": "where",
+      "synonyms": [
+        "where"
+      ]
+    },
+    {
+      "value": "who",
+      "synonyms": [
+        "who"
+      ]
+    },
+    {
+      "value": "why",
+      "synonyms": [
+        "why"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false,
+  "isRegexp": false
+}

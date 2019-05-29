@@ -1,0 +1,1406 @@
+{
+  "id": "80722f4e-c353-4e28-a87e-100f2cf07c17",
+  "name": "ExecutiveEducationIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac88e563-e190-4913-8cc1-b45c1f825edb",
+          "required": false,
+          "dataType": "@questionkey",
+          "name": "questionkey",
+          "value": "$questionkey",
+          "isList": false
+        },
+        {
+          "id": "743e0887-99a3-4ce1-94ec-d29bfc554cee",
+          "required": true,
+          "dataType": "@subject",
+          "name": "subject",
+          "value": "$subject",
+          "prompts": [
+            "Can you tell me the subject you are interested in? And I will be happy to answer you.",
+            "Try asking about our graduate progarmmes or our executive education. We also have stackable programmes."
+          ],
+          "isList": false
+        },
+        {
+          "id": "fa5d643f-894a-47ef-9777-b968bf12d514",
+          "required": false,
+          "dataType": "@inquirytype",
+          "name": "inquirytype",
+          "value": "$inquirytype",
+          "isList": false
+        },
+        {
+          "id": "19693020-c91d-4c3f-b3b0-51fdf6807118",
+          "required": false,
+          "dataType": "@action",
+          "name": "action",
+          "value": "$action",
+          "isList": false
+        },
+        {
+          "id": "f6b850e7-4fb2-4dc1-a87a-903d7417e2ee",
+          "required": false,
+          "dataType": "@location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "29a90ea7-5f04-4ce7-9f3c-2300e76d124b",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programmes",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " are "
+        },
+        {
+          "text": "available",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8b4074e3-7e66-4279-8adc-c653407db520",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "PDU",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "requirement",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " in your "
+        },
+        {
+          "text": "programmes",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6ba46ab0-dec4-4f35-a6de-62a3889d9357",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "funding",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " are "
+        },
+        {
+          "text": "available",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " for your "
+        },
+        {
+          "text": "programmes",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f007a44b-617f-4891-ad85-c6ec4f2cf4b3",
+      "data": [
+        {
+          "text": "Who",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " can "
+        },
+        {
+          "text": "attend",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "career talks",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " arranged in your "
+        },
+        {
+          "text": "programmes",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f8300ff5-b661-4dd6-af21-03921ebdfd91",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "career",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "services",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " are "
+        },
+        {
+          "text": "available",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "f742f740-3425-4224-9e9c-71e6e03600c2",
+      "data": [
+        {
+          "text": "Is",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " there a "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stackup startup tech talent development",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "13cd887d-775b-406f-8163-c288f1ed059d",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "software systems",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "training course",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " does "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "offer",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e67f3f45-2b67-43a9-91d0-31f1da1b1b22",
+      "data": [
+        {
+          "text": "Can",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "explain",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " your "
+        },
+        {
+          "text": "skillsfuture training",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c8fb5ee6-68df-4071-8722-30d97ed76e7a",
+      "data": [
+        {
+          "text": "Do",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "have",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " professional "
+        },
+        {
+          "text": "conversion",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programmes",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "097bcf7b-3f46-4710-bbe0-ea1b1096333e",
+      "data": [
+        {
+          "text": "Do",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "have",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "training course",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "digital products & platforms",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2d61a3c3-fb75-4bdf-b124-c98de146d498",
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me more about "
+        },
+        {
+          "text": "digital strategy and leadership",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8af7dd65-4aa3-49af-abf4-a65bb8d85e9a",
+      "data": [
+        {
+          "text": "Is",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " there any "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "digital innovation & design",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5462a157-04d0-4514-af76-d0c13e85bed6",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "digital agility",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5b229567-d2f1-4d23-879b-8334ca19fd90",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "data science",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "41fae54d-e801-45f0-8fd4-310e4ad72783",
+      "data": [
+        {
+          "text": "Can",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me more about "
+        },
+        {
+          "text": "cyberSecurity",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "isAuto": false
+    },
+    {
+      "id": "e34873c3-ffbf-4640-8fdc-9acc48f6a1ee",
+      "data": [
+        {
+          "text": "How",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "internship",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "placements",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "handled",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "83cf3ca3-10a1-4031-bf83-6636808aed36",
+      "data": [
+        {
+          "text": "Does",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "offer",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "corporate",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "courses",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "00e2fcf9-b048-4a32-8021-9b86c63c28b8",
+      "data": [
+        {
+          "text": "Do",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "have",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "applied research",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6780ba23-1ac2-4d23-803f-2e44457cf8f7",
+      "data": [
+        {
+          "text": "Does",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "offer",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "consulting services",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fc5f81ad-73d8-4f49-b4bd-81b4b55883de",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programmes",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " are "
+        },
+        {
+          "text": "available",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ISS NUS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5c6792cf-5ab0-469e-8c47-d293bf3b398e",
+      "data": [
+        {
+          "text": "Does",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "provide",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "consulting services",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cd569d30-2eae-4618-86cb-3e0831e328ed",
+      "data": [
+        {
+          "text": "Can",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me more about "
+        },
+        {
+          "text": "artificial intelligence",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "discipline",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "693be05f-764d-4b44-a7fa-b2f78ff057f5",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "disciplines",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " are "
+        },
+        {
+          "text": "available",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "Executive Education",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " programme?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "128c1048-f1d3-4ffa-89de-5c26f9ed84fa",
+      "data": [
+        {
+          "text": "Tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me more "
+        },
+        {
+          "text": "about",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Executive Education",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "05022f59-666c-40d4-b0eb-56820b142172",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "artificial intelligence",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "available",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "bef6b49b-f051-405d-b72b-24460d1e5bb9",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": "  "
+        },
+        {
+          "text": "reasoning systems",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "  "
+        },
+        {
+          "text": "programme",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " does "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "161c8af7-32b5-46cb-94c5-6dcb2268d96d",
+      "data": [
+        {
+          "text": "What",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "masters programmes",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " are "
+        },
+        {
+          "text": "available",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5d5dd9bc-aac1-460c-b03f-b3a4f6b3d870",
+      "data": [
+        {
+          "text": "Does",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "offer",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Diploma",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": " programme in "
+        },
+        {
+          "text": "Smart health",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "df6077f9-dde5-45bb-ba9d-1460d50ba1dc",
+      "data": [
+        {
+          "text": "Does",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ISS NUS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "offer",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "post graduate programmes",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

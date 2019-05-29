@@ -1,0 +1,1089 @@
+{
+  "id": "9b81ce93-b901-4e42-bba8-b5df4d287976",
+  "name": "OtherInformationIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e2c688ad-4ab5-4cce-9036-153c1fc255e8",
+          "required": false,
+          "dataType": "@questionkey",
+          "name": "questionkey",
+          "value": "$questionkey",
+          "isList": false
+        },
+        {
+          "id": "0e3ab166-c0d4-4764-a8de-c290b7254b52",
+          "required": false,
+          "dataType": "@action",
+          "name": "action",
+          "value": "$action",
+          "isList": false
+        },
+        {
+          "id": "8cb10f30-646e-4a57-990f-361cd0928850",
+          "required": false,
+          "dataType": "@location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        },
+        {
+          "id": "44ecc8bf-caa4-41ab-994b-e5a5cc2d8dd7",
+          "required": true,
+          "dataType": "@subject",
+          "name": "subject",
+          "value": "$subject",
+          "prompts": [
+            "Can you tell me what ISS related information you are interested in? And I will be happy to answer you.",
+            "You may ask me about ISS story, its facilities, our teaching staff, management team and board members and why you should choose NUS ISS as your learning journey."
+          ],
+          "isList": false
+        },
+        {
+          "id": "e4acb386-2bda-40a7-837a-5a9676d2faff",
+          "required": false,
+          "dataType": "@inquirytype",
+          "name": "inquirytype",
+          "value": "$inquirytype",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "617425b8-badd-4fd3-9f36-66b686aa1d36",
+      "data": [
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me something about "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "management board",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "dabccf68-a743-48b4-9cc6-fd428dc397bc",
+      "data": [
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me something about "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "management team",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6be88c03-abdb-4f4f-9b90-c61a8bb74487",
+      "data": [
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me something about "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "teaching staff",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6df0839c-61b0-404a-a1bf-4c4324e1f458",
+      "data": [
+        {
+          "text": "why",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "enrol",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "programmes",
+          "alias": "inquirytype",
+          "meta": "@inquirytype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "009c0f87-66b5-45b3-8f8d-d504d969870e",
+      "data": [
+        {
+          "text": "why",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "study",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a2a557c9-3948-4890-942d-b11a3b942517",
+      "data": [
+        {
+          "text": "why",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "select",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c24bb1ac-084c-491d-affb-2cb1bdeb0840",
+      "data": [
+        {
+          "text": "tell me "
+        },
+        {
+          "text": "how",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "get",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8e91b752-1acd-4935-b2c7-c3da4e983b6b",
+      "data": [
+        {
+          "text": "Where",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "located",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "bcbd1fdb-544e-415b-8671-58f03f068f1e",
+      "data": [
+        {
+          "text": "how",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " do I "
+        },
+        {
+          "text": "locate",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6102544e-fc77-4496-84cc-45ac44851630",
+      "data": [
+        {
+          "text": "How",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " I "
+        },
+        {
+          "text": "get",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "74ccfdb5-33f8-4909-bf55-3a10e67ab51b",
+      "data": [
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me what "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "core values",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " are"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8eb7c703-7654-474e-9b44-5b37f404fbd6",
+      "data": [
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me something about "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "achievements",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5768cec5-0ad4-4b6a-9e3a-430c7d295a3c",
+      "data": [
+        {
+          "text": "How",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " do I "
+        },
+        {
+          "text": "get",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "add2c022-939f-4461-8ffa-06b104edcbcd",
+      "data": [
+        {
+          "text": "Who",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "administration staff",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e575305b-54c3-4e4c-85d5-50869411f5e4",
+      "data": [
+        {
+          "text": "Who",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "teaching staff",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ab9039ac-b625-4104-87a7-8a5c9bd9668c",
+      "data": [
+        {
+          "text": "Who",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the members of "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Management Team",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2ac8da2f-a59b-459e-a992-f2c0b467ceac",
+      "data": [
+        {
+          "text": "Why",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "choose",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "99522a45-9cf6-4e06-a297-e299d606881d",
+      "data": [
+        {
+          "text": "Who",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " the members of "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Management Board",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "68fcbc88-4b74-4413-9f5a-324f2b9bd98a",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " NUS "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "accomplishments",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c26e0f91-92e1-4a1d-b3ae-2e31a999a48f",
+      "data": [
+        {
+          "text": "Can",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me about NUS "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "achievements",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f1985e83-6a18-4fa4-a333-a4dfa77df093",
+      "data": [
+        {
+          "text": "tell",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " me something about "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "vision",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8ae17d33-55ef-4387-9876-b942f3c86cf2",
+      "data": [
+        {
+          "text": "does",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "mission statement",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f4717d45-170a-4c6a-919a-4133306964c0",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " NUS "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "core values",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7d1e4bb4-a28b-4d6a-8f66-dad42fc15ad7",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " NUS "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "vision",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e5257ecc-c0df-4c35-b84d-b6069ad663f2",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " NUS "
+        },
+        {
+          "text": "ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mission statement",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7090aad0-9e8e-4e8a-b893-cccb99270f4a",
+      "data": [
+        {
+          "text": "what",
+          "alias": "questionkey",
+          "meta": "@questionkey",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "alias": "action",
+          "meta": "@action",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "NUS ISS",
+          "alias": "location",
+          "meta": "@location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "story",
+          "alias": "subject",
+          "meta": "@subject",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

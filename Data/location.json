@@ -1,0 +1,41 @@
+{
+  "id": "5901cf52-6f70-471c-9fae-c2f9d6101193",
+  "name": "location",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "NUS ISS",
+      "synonyms": [
+        "NUS ISS"
+      ]
+    },
+    {
+      "value": "iss",
+      "synonyms": [
+        "iss"
+      ]
+    },
+    {
+      "value": "iss nus",
+      "synonyms": [
+        "iss nus"
+      ]
+    },
+    {
+      "value": "issnus",
+      "synonyms": [
+        "issnus"
+      ]
+    },
+    {
+      "value": "nus",
+      "synonyms": [
+        "nus"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false,
+  "isRegexp": false
+}
