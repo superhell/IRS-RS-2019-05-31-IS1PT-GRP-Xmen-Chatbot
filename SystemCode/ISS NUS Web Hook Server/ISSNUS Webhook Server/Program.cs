@@ -30,18 +30,11 @@ namespace Sys.Http.Server
             ////*******************************************************
             ////Test Search Algorithm 
             ////*******************************************************
-            //Sys.Tool.KnowledgeObject kb = new Sys.Tool.KnowledgeObject(ApplicationDataPath() + "/KnowledgeBase.dat");
-            ////kb.TestBinaryTree();
-            ////kb.SetUpKnowledgeBase();
-            ////kb.Store();
+   
 
+
+            //Sys.Tool.KnowledgeObject kb1 = new Sys.Tool.KnowledgeObject(ApplicationDataPath() + "/KnowledgeBase1.dat");
             //Sys.Tool.DataStore DataStore = new Sys.Tool.DataStore(ApplicationDataPath() + "/DataStore.dat");
-            //DataStore = DataStore.Restore();
-            //DataStore.WriteToCSVFile("DataStore.csv");
-
-
-            Sys.Tool.KnowledgeObject kb1 = new Sys.Tool.KnowledgeObject(ApplicationDataPath() + "/KnowledgeBase1.dat");
-            Sys.Tool.DataStore DataStore = new Sys.Tool.DataStore(ApplicationDataPath() + "/DataStore.dat");
 
             //DataStore.LoadDataFileExcel(ApplicationDataPath() + "/ISS_ExecutiveEducation_v1.xlsx", "data");
             //kb1.SetUpKnowledgeBase(DataStore.Table);
@@ -52,34 +45,25 @@ namespace Sys.Http.Server
             //kb2.SetUpKnowledgeBase(DataStore.Table);
             //kb2.Store();
 
-            Sys.Tool.KnowledgeObject kb3 = new Sys.Tool.KnowledgeObject(ApplicationDataPath() + "/KnowledgeBase3.dat");
-            DataStore.LoadDataFileExcel(ApplicationDataPath() + "/ISS_StackableProgramme_v1.xlsx", "data");
-            kb3.SetUpKnowledgeBase(DataStore.Table);
-            kb3.Store();
+            //Sys.Tool.KnowledgeObject kb3 = new Sys.Tool.KnowledgeObject(ApplicationDataPath() + "/KnowledgeBase3.dat");
+            //DataStore.LoadDataFileExcel(ApplicationDataPath() + "/ISS_StackableProgramme_v1.xlsx", "data");
+            //kb3.SetUpKnowledgeBase(DataStore.Table);
+            //kb3.Store();
 
-            Sys.Tool.KnowledgeObject kb4 = new Sys.Tool.KnowledgeObject(ApplicationDataPath() + "/KnowledgeBase4.dat");
-            DataStore.LoadDataFileExcel(ApplicationDataPath() + "/ISS_Other_v1.1.xlsx", "data");
-            kb4.SetUpKnowledgeBase(DataStore.Table);
-            kb4.Store();
-
-
+            //Sys.Tool.KnowledgeObject kb4 = new Sys.Tool.KnowledgeObject(ApplicationDataPath() + "/KnowledgeBase4.dat");
+            //DataStore.LoadDataFileExcel(ApplicationDataPath() + "/ISS_Other_v1.1.xlsx", "data");
+            //kb4.SetUpKnowledgeBase(DataStore.Table);
+            //kb4.Store();
 
 
-            Tool.SearchParameters pp = new Tool.SearchParameters();
-            //pp.Action = "choose"; pp.QuestionKey = "why"; pp.Location = ""; pp.InquiryType = ""; pp.Subject = "NUS ISS";
-            //pp.Action = "get"; pp.QuestionKey = "how"; pp.Location = ""; pp.InquiryType = ""; pp.Subject = "NUS ISS";
-            pp.Action = "select"; pp.QuestionKey = "why"; pp.Location = ""; pp.InquiryType = ""; pp.Subject = "NUS ISS";
-            string ff = kb4.Search("", pp);
+
+
+            //Tool.SearchParameters pp = new Tool.SearchParameters();
+           
+            //pp.Action = "select"; pp.QuestionKey = "why"; pp.Location = ""; pp.InquiryType = ""; pp.Subject = "NUS ISS";
+            //string ff = kb4.Search("", pp);
             //*******************************************************
-
-            //Sys.Tool.DataStore data = new Sys.Tool.DataStore(ApplicationDataPath() + "/DataStore.dat");
-            //data.LoadDataFileExcel(ApplicationDataPath() + "/ISS_Courses_V1b.xlsx", "data");
-            //data.CleanData();
-            //data.Store();
-            //data = data.Restore();
-
-
-            //data.Filename = ApplicationDataPath() + "/DataStore.dat";
+ 
 
 
             using (var server = new NHttp.HttpServer())
