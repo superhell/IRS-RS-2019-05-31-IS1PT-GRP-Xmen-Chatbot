@@ -12,9 +12,9 @@
 
 ## Here is the description
 
-## REPORT.pdf contains:
-* Main report
-* User Guide
+## Project Report Consists of:
+* Report in PDF format
+* User Guide included in report
 
 [View Report](https://github.com/superhell/IRS-RS-2019-05-31-IS1PT-GRP-Xmen-Chatbot/blob/master/ProjectReport/Report.pdf)
  
