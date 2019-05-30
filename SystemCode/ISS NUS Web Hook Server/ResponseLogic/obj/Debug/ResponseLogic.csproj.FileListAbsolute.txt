@@ -1,0 +1,9 @@
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\bin\Debug\ResponseLogic.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\bin\Debug\ResponseLogic.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\obj\Debug\ResponseLogic.csproj.CoreCompileInputs.cache
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\obj\Debug\ResponseLogic.csproj.CopyComplete
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\obj\Debug\ResponseLogic.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\obj\Debug\ResponseLogic.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\WebAPI\HTTP server\ISS NUS Web Hook Server\ResponseLogic\obj\Debug\ResponseLogic.csprojAssemblyReference.cache

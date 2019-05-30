@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "weatherworkshop-a97f5",
+  "private_key_id": "66f4472b43d4c83ca67bea28b56c0dce14d76176",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwHxmSmTaeQF5H\nnFS4cA5IJxQP+eZFZq7+Xw2MqQzlbhvXU1QfOXplPE6cyrndjEhwJWdWxQoQj75M\nTmRdrJVfQiMW3RbNXNvDbg6Lguwgw3H7DUE7LUW5FWPkkJPyGKVBZbqsEz4n6idf\n1pC8s7Het0+GiSWnhX97jyzrhV3eUa1reG3gTmAUL4sj8peBi6xI0t0gT52zB23e\nwK2axvLI+UoirmYdCOZb0G/RWJ4JIU7LT4rcrr5emksKoH9RkWaMN03ga3DHQCiW\nAqZGK/8fcu/g07wWlX7QHw3pF/7PSC0D45Ssxu6aWlvnUYE3Sy2QB0/w49i1Rjm0\nnGo2LY+ZAgMBAAECggEAERQC8889l5zgR4tmP7hF+kMn0+DEroglge8PrksaQAks\nU/X1m02Ei9qMOPIDkfMvdwh5e9WBg1ec+WNEojzBA0qzgl0P//v4J3w9ltOsOAUb\nwV9oqudZ8nebhydp4Tj4lV3a+yKmjVJMXSO+Rz4ZimI2KPKVnyf307Bvh6sYDh2u\nHBnie3D+8MNItxcB0r+rnNMsRS5AAoEfNJipzcdrz81r6SlpJAIY2as4/npDxgnA\nSQ/6xna+JORFBwf1Oys7rAfqQQeUGMqCaWRfVlSkEge5iRTGSvAeOJKmE1r7wkUa\nSssTRqROmKLvX+6LexWa0pZ/mJyZYiIoovx0qbxxcQKBgQDopejNwDvtRaxg33pm\nisluujghgo3mrvkwmnlaRs0oKTywI9pITpltRc+tlrDeRlJrI8JKHqpg9X6tDj17\ny4fAOChNBpowiePM9UF3Jh/u5H7BIDo+vasnmZUJualqaHEfydObg7pu0g2xbfJk\npltqPj+0e3XjfQlmu38oEMJwHQKBgQDBzLD/LjuFoPFmrWDUmrEQs6x0I7fB3Kc/\nK99MTQm4ST08y/pp4nJWu9icIhzDAv+edJUx+xDJtOd+bpchNQy3uFcZThTho8bR\ngCyXEWKJDZAYpQiJFNH2gWQAzSNyZHgKiDJz9H75evl7BpuZs2pjjvT/wnF2dYbf\nvK+KfLU8rQKBgG/TF3SWWvewjqu9n2rcePf1IHfS9fwUzIg1J/FhqMkOETKk+Q3a\nYdrpPGq2zOr6KDGBbakM1l5mge4SszDm4qhdFdn4O3LrRIjGtiHcPGsqf1a68+Qm\nbLdLFh0nlawk6YMbEtBkX99WrehD7ce9QqFtrFdHJKIk/rjXlMYgUCVtAoGADQLh\nH0DLXj1f97TMO3nnSWfGvEVpoOpfkC4x372MWYMRSXOobFN3ubsC3/iqVa1t3AWX\nvrNMfT5YDHUAUIpvQCZwMpK7dCq6vnYMiFfydaEje4QY/psXPaWSQTuElbmJFavv\nNznDDJzlAw1+hOM20VhXupQjagCZ/Yt9fZ7BzEECgYEA2Ru1NTVwVe/jXfrO7vjh\nabS9ylabg3vFDd5W5PIQuIAG3zplbDoWaaa/Y6N7YrCKgVvwZh2XN8ajfjgS1NBU\nV0S/9uHD5v+OvArUqIGmoFX3ELKq/LhaSPBo970EAU/X+BfkscmV+wbv9PtJlJla\ntOHdYui57i92D+R85Ek6oMw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "weatherworkshop-a97f5@appspot.gserviceaccount.com",
+  "client_id": "106493964226502402847",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/weatherworkshop-a97f5%40appspot.gserviceaccount.com"
+}

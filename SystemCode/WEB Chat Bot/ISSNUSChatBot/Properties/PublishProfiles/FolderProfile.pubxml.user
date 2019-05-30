@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Google.Api.CommonProtos.dll">
+      <publishTime>07/03/2018 14:31:28</publishTime>
+    </File>
+    <File Include="bin/Google.Api.CommonProtos.pdb">
+      <publishTime>07/03/2018 14:31:28</publishTime>
+    </File>
+    <File Include="bin/Google.Api.Gax.dll">
+      <publishTime>07/03/2018 15:54:58</publishTime>
+    </File>
+    <File Include="bin/Google.Api.Gax.Grpc.dll">
+      <publishTime>07/03/2018 15:55:00</publishTime>
+    </File>
+    <File Include="bin/Google.Api.Gax.Grpc.pdb">
+      <publishTime>07/03/2018 15:55:00</publishTime>
+    </File>
+    <File Include="bin/Google.Api.Gax.pdb">
+      <publishTime>07/03/2018 15:54:58</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.dll">
+      <publishTime>08/02/2018 10:32:30</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.PlatformServices.dll">
+      <publishTime>08/02/2018 10:32:30</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Core.dll">
+      <publishTime>08/02/2018 10:32:24</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.dll">
+      <publishTime>08/02/2018 10:32:30</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.PlatformServices.dll">
+      <publishTime>08/02/2018 10:32:30</publishTime>
+    </File>
+    <File Include="bin/Google.Cloud.Dialogflow.V2.dll">
+      <publishTime>04/13/2018 09:26:20</publishTime>
+    </File>
+    <File Include="bin/Google.Cloud.Dialogflow.V2.pdb">
+      <publishTime>04/13/2018 09:26:20</publishTime>
+    </File>
+    <File Include="bin/Google.LongRunning.dll">
+      <publishTime>09/19/2017 16:29:26</publishTime>
+    </File>
+    <File Include="bin/Google.LongRunning.pdb">
+      <publishTime>09/19/2017 16:29:26</publishTime>
+    </File>
+    <File Include="bin/Google.Protobuf.dll">
+      <publishTime>12/21/2017 20:23:44</publishTime>
+    </File>
+    <File Include="bin/Grpc.Auth.dll">
+      <publishTime>01/03/2018 19:28:36</publishTime>
+    </File>
+    <File Include="bin/Grpc.Auth.pdb">
+      <publishTime>01/03/2018 19:28:36</publishTime>
+    </File>
+    <File Include="bin/Grpc.Core.dll">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="bin/Grpc.Core.pdb">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="bin/grpc_csharp_ext.x64.dll">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="bin/grpc_csharp_ext.x86.dll">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="bin/ISSNUSChatBot.dll">
+      <publishTime>05/29/2019 15:25:41</publishTime>
+    </File>
+    <File Include="bin/ISSNUSChatBot.pdb">
+      <publishTime>05/29/2019 15:25:41</publishTime>
+    </File>
+    <File Include="bin/libgrpc_csharp_ext.x64.dylib">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="bin/libgrpc_csharp_ext.x64.so">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="bin/libgrpc_csharp_ext.x86.dylib">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="bin/libgrpc_csharp_ext.x86.so">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/04/2017 17:46:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/Sys.Tool.ChatbotLogic.dll">
+      <publishTime>05/29/2019 15:25:41</publishTime>
+    </File>
+    <File Include="bin/Sys.Tool.ChatbotLogic.pdb">
+      <publishTime>05/29/2019 15:25:41</publishTime>
+    </File>
+    <File Include="bin/System.Interactive.Async.dll">
+      <publishTime>11/21/2016 14:05:54</publishTime>
+    </File>
+    <File Include="Content/Account/issnus-b185f-14d6c7dcca89.json">
+      <publishTime>05/16/2019 20:10:10</publishTime>
+    </File>
+    <File Include="Content/Account/issnus-b185f-be9c3b99695d.json">
+      <publishTime>05/16/2019 20:10:18</publishTime>
+    </File>
+    <File Include="Content/Account/weatherworkshop-a97f5-66f4472b43d4.json">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/bootstrap/3.3.7/css/bootstrap-theme.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/bootstrap/3.3.7/css/bootstrap.css">
+      <publishTime>05/15/2019 16:59:36</publishTime>
+    </File>
+    <File Include="Content/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/25/2016 13:43:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/25/2016 13:43:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/25/2016 13:43:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/25/2016 13:43:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>07/25/2016 13:43:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap/3.3.7/js/bootstrap.min.js">
+      <publishTime>05/15/2019 17:02:25</publishTime>
+    </File>
+    <File Include="Content/chatbot/css/chat.css">
+      <publishTime>05/23/2019 10:54:52</publishTime>
+    </File>
+    <File Include="Content/chatbot/css/footer.css">
+      <publishTime>05/18/2019 14:50:18</publishTime>
+    </File>
+    <File Include="Content/Data/BlackListWords.dat">
+      <publishTime>05/23/2019 19:13:57</publishTime>
+    </File>
+    <File Include="Content/jquery/1.11/js/jquery-1.11.min.js">
+      <publishTime>05/15/2019 17:05:41</publishTime>
+    </File>
+    <File Include="Content/site.css">
+      <publishTime>05/23/2019 13:11:59</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>05/23/2019 11:45:14</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/16/2019 17:09:33</publishTime>
+    </File>
+    <File Include="grpc_csharp_ext.x64.dll">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="grpc_csharp_ext.x86.dll">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="libgrpc_csharp_ext.x64.dylib">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="libgrpc_csharp_ext.x64.so">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="libgrpc_csharp_ext.x86.dylib">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="libgrpc_csharp_ext.x86.so">
+      <publishTime>05/04/2018 13:26:00</publishTime>
+    </File>
+    <File Include="readme.txt">
+      <publishTime>05/19/2019 05:22:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/29/2019 15:25:42</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>05/16/2019 06:15:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

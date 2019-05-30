@@ -1,0 +1,135 @@
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\grpc_csharp_ext.x86.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\grpc_csharp_ext.x64.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\libgrpc_csharp_ext.x86.so
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\libgrpc_csharp_ext.x64.so
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\libgrpc_csharp_ext.x86.dylib
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\libgrpc_csharp_ext.x64.dylib
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\ISSNUSChatBot.dll.config
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\ISSNUSChatBot.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\ISSNUSChatBot.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\csc.exe
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\csc.exe.config
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\csc.rsp
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\csi.exe
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\csi.rsp
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\System.AppContext.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\vbc.exe
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\vbc.exe.config
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\vbc.rsp
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\VBCSCompiler.exe
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.CommonProtos.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.Gax.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.Gax.Grpc.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Apis.Auth.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Apis.Core.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Apis.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Apis.PlatformServices.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Cloud.Dialogflow.V2.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.LongRunning.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Protobuf.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Grpc.Auth.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Grpc.Core.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Newtonsoft.Json.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\System.Interactive.Async.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.CommonProtos.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.CommonProtos.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.Gax.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.Gax.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.Gax.Grpc.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Api.Gax.Grpc.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Apis.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Apis.Auth.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Apis.Core.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Cloud.Dialogflow.V2.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Cloud.Dialogflow.V2.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.LongRunning.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.LongRunning.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Google.Protobuf.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Grpc.Auth.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Grpc.Auth.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Grpc.Core.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Grpc.Core.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Newtonsoft.Json.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\System.Interactive.Async.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.csprojAssemblyReference.cache
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.csproj.CoreCompileInputs.cache
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.csproj.CopyComplete
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\NEW2\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\grpc_csharp_ext.x86.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\grpc_csharp_ext.x64.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\libgrpc_csharp_ext.x86.so
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\libgrpc_csharp_ext.x64.so
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\libgrpc_csharp_ext.x86.dylib
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\libgrpc_csharp_ext.x64.dylib
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\ISSNUSChatBot.dll.config
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\ISSNUSChatBot.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\ISSNUSChatBot.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\csc.exe
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\csc.exe.config
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\csc.rsp
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\csi.exe
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\csi.rsp
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\System.AppContext.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\vbc.exe
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\vbc.exe.config
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\vbc.rsp
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\VBCSCompiler.exe
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Api.CommonProtos.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Api.Gax.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Api.Gax.Grpc.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Apis.Auth.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Apis.Core.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Apis.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Cloud.Dialogflow.V2.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.LongRunning.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Google.Protobuf.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Grpc.Auth.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Grpc.Core.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Newtonsoft.Json.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\System.Interactive.Async.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Newtonsoft.Json.xml
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.csproj.CoreCompileInputs.cache
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.csproj.CopyComplete
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\obj\Debug\ISSNUSChatBot.csprojAssemblyReference.cache
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Sys.Tool.ChatbotLogic.dll
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Sys.Tool.ChatbotLogic.pdb
+C:\Work\ISS Masters in Tech Intelligent Systems\ISY5001\Module 3 - Cognitive\project\Web\WEB Chat Bot\ISSNUSChatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
