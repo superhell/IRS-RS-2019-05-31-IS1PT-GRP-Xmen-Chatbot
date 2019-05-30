@@ -10,7 +10,7 @@
 * Dong Bin
 * Sun Hang
 
-Here is the description
+## Here is the description
 
 ## REPORT.pdf contains:
 * Main report
@@ -39,7 +39,7 @@ Here is the description
 * Ensure you get the Google Credential Json file from the dialog flow service account page and reference it in the chat bot web project code
 * Launch chat bot web front end the solution located at: SystemCode/WEB Chat Bot/ISSNUSChatBot.sln
 
-# Please note that internet access is required as the solution will need to connect to Google's dialog flow platform. 
+### Please note that internet access is required as the solution will need to connect to Google's dialog flow platform. 
 
 ## Credit
 [Dialogflow](https://dialogflow.com/)
