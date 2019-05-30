@@ -1,5 +1,7 @@
 # NUS ISS Chatbot
 
+![logo](resources/chatbot.png)
+
 ## Project members of Institute of Systems Science, National University of Singapore:
 * Chad
 * Jin Xin
@@ -11,10 +13,10 @@ Here is the description
 
 ## REPORT.pdf contains:
 * Main report
-* User Manual
+* User Guide
 
 ## Video
-[Video Link](https://youtu.be/ogLJWlWqs0M)
+[Video Link](https://github.com/superhell/IRS-RS-2019-05-31-IS1PT-GRP-Xmen-Chatbot/blob/master/ProjectReport/video.mp4)
 
 ## Development Tools & Environment
 ### Tools
