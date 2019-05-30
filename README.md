@@ -16,12 +16,11 @@ Here is the description
 * Main report
 * User Guide
 
-[View Report](https://github.com/superhell/IRS-RS-2019-05-31-IS1PT-GRP-Xmen-Chatbot/blob/master/ProjectReport/Report.pdf)
+View Report(https://github.com/superhell/IRS-RS-2019-05-31-IS1PT-GRP-Xmen-Chatbot/blob/master/ProjectReport/Report.pdf)
 ---
 
 ## Video
-[Video Link]()
-[![NUS ISS Chatbot Video](https://github.com/superhell/IRS-RS-2019-05-31-IS1PT-GRP-Xmen-Chatbot/blob/master/ProjectReport/video.mp4)]("NUS ISS Chatbot Video")
+[Video Link](https://github.com/superhell/IRS-RS-2019-05-31-IS1PT-GRP-Xmen-Chatbot/blob/master/ProjectReport/video.mp4)
 
 ## Development Tools & Environment
 ### Tools
