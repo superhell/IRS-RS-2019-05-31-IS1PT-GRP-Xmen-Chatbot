@@ -30,7 +30,16 @@ Here is the description
 
 
 ### Running Locally
-* You 
+* Make sure you install Visual Studio 2017 (Community Edition)
+* Setup an account with Google's DialogFlow v2 and import the agent file located at: Data/ISSNUS.zip
+* Import all Intent and Entity files into your DialogFlow agent (Files located at:  Data/)
+* Download NGROK from https://ngrok.com/ and setup an account 
+* Launch NGROK with the command: ngrok http 5001
+* Clone this project, and Launch the backend web hook server located at: SystemCode/ISS NUS Web Hook Server/NHttp.sln
+* Ensure you get the Google Credential Json file from the dialog flow service account page and reference it in the chat bot web project code
+* Launch chat bot web front end the solution located at: SystemCode/WEB Chat Bot/ISSNUSChatBot.sln
+
+## Please note that internet access is required as the solution will need to connect to Google's dialog flow platform. 
 
 ## Credit
 [Dialogflow](https://dialogflow.com/)
